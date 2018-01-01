@@ -1,0 +1,4 @@
+Êı¾İ×Öµä£º
+um = user manager;
+sm = server manager;
+ud = userdata;
