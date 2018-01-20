@@ -1,0 +1,9 @@
+首先要启动服务器端的窗口 
+ com.fuqiang.servers   服务器所在的包
+  com.fuqiang.servers.view.Main   这里只需要修改端口    主机的ip就是启动服务器的ip
+
+  启动客户端  
+  com.fuqiang.lan.view.MainLANProcedure 
+    如果客户端和服务器不是同一台机器则需要修改客户端的连接ip
+  com.fuqiang.lan.client.Client   有提示
+  注意：服务端的端口必须和客户端的端口一致默认8888
